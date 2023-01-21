@@ -61,4 +61,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags:  r-u-s-h/infra_actions:latest
+          tags:  alexrush47/infra_actions:latest
